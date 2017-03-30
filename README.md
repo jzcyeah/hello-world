@@ -1,2 +1,4 @@
 # hello-world
-just begin
+hi
+i'm trying the function ：p
+twice
